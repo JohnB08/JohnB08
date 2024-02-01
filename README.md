@@ -1,8 +1,13 @@
 Hi! I'm John. <br>
 Currently enlisted at a bootcamp for front-end in Norway, called KodeHode. <br>
-At the moment, I'm learning HTML, CSS and Javascript. <br>
-I'm also trying to get a grip with FIGMA and also in general how GITHUB works. <br>
 <br>
+Focusing on JavaScript.<br>
+Learning the vite react framework, and TypeScript.<br>
+<br>
+<br>
+<br>
+Loving the puzzles and challenges TypeScript creates.
+
 Currently the best way to reach me is: <a href="https://discordapp.com/users/johnb08"> Through Discord <a/>
 
 <!---
