@@ -1,9 +1,6 @@
 <h1>Introduksjon/Introduction</h1>
 <br>
 <br>
-<h2>-- Norsk --</h2> 
-<br>
-<br>
 <h3>Hei! Jeg er John</h3> <br>
 <br>
   Jeg er akkurat nå i innspurten av et introduksjonskurs til koding som heter Kodehode. <br>
@@ -17,8 +14,6 @@ men jeg merker at å jobbe med fullstack er noe jeg kommer til å trives med. <b
 <br>
 Foreløbig er beste måten å nå meg på: <a href="https://discordapp.com/users/johnb08"> Gjennom Discord <a/>
 <br>
-<br>
-<h2>-- English --</h2> 
 <br>
 <h3>Hi! I'm John.</h3>  <br>
   Currently crossing the finish line at a coding bootcamp in Norway called Kodehode.<br>
