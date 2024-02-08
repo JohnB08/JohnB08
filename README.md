@@ -1,5 +1,6 @@
-
-
+<h1>Introduction/Introduksjon</h1>
+<br>
+<br>
 <h2>-- English --</h2> 
 <br>
 <h3>Hi! I'm John.</h3>  <br>
