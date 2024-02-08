@@ -1,4 +1,8 @@
-Hi! I'm John. <br>
+
+
+## -- English --
+<br>
+### Hi! I'm John. <br>
 Currently crossing the finish line at a coding bootcamp in Norway Called Kodehode.<br>
 <br>
 During this time I have developed a solid foundation for HTML, CSS and JavaScript. <br>
@@ -9,12 +13,15 @@ I have spent some time working with React, and have familiarized myself in how J
 Lately I have also started slowly making my way down the stack and are currently exploring the possibilities within frameworks <br>
 such as NEXT.js and ASTRO. <br>
 At this time I would call myself a Generalist within JavaScript, but I see working with a fullstack framework is something I will enjoy. <br>
-
+<br>
 Currently the best way to reach me is: <a href="https://discordapp.com/users/johnb08"> Through Discord <a/>
-
-
-Hei! Jeg er John <br>
-
+<br>
+<br>
+## -- Norsk --
+<br>
+<br>
+### Hei! Jeg er John <br>
+<br>
 Jeg er akkurat nå i innspurten i et introduksjonskurs til koding som heter Kodehode. <br>
 
 I løpet av tiden på kurset har jeg lært meg HTML, CSS og JavaScript. I I tillegg bruker jeg en del tid på TypeScript, noe som viste seg å være både artig og utfordrene. <br>
