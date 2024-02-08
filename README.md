@@ -1,4 +1,21 @@
-<h1>Introduction/Introduksjon</h1>
+<h1>Introduksjon/Introduction</h1>
+<br>
+<br>
+<h2>-- Norsk --</h2> 
+<br>
+<br>
+<h3>Hei! Jeg er John</h3> <br>
+<br>
+  Jeg er akkurat nå i innspurten av et introduksjonskurs til koding som heter Kodehode. <br>
+<br>
+  I løpet av tiden på kurset har jeg lært meg HTML, CSS og JavaScript. I I tillegg bruker jeg en del tid på TypeScript, noe som viste seg å være både artig og utfordrene. <br>
+<br>
+  Jeg har også brukt mye tid med React, og mer generelt hvordan JavaScript baserte bibliotek fungerer. <br>
+Det har ført til at jeg har begynt å bevege meg nedover i "stacken", og har på fritiden startet å utforske fullstack rammeverk som NEXT og ASTRO. <br>
+  Akkurat nå er jeg nok ganske generalist når det kommer til JavaScript-baserte techstacks, <br>
+men jeg merker at å jobbe med fullstack er noe jeg kommer til å trives med. <br>
+<br>
+Foreløbig er beste måten å nå meg på: <a href="https://discordapp.com/users/johnb08"> Gjennom Discord <a/>
 <br>
 <br>
 <h2>-- English --</h2> 
@@ -17,23 +34,6 @@ such as NEXT.js and ASTRO. <br>
 but I see working with a fullstack framework is something I will enjoy. <br>
 <br>
 Currently the best way to reach me is: <a href="https://discordapp.com/users/johnb08"> Through Discord <a/>
-<br>
-<br>
-<h2>-- Norsk --</h2> 
-<br>
-<br>
-<h3>Hei! Jeg er John</h3> <br>
-<br>
-  Jeg er akkurat nå i innspurten av et introduksjonskurs til koding som heter Kodehode. <br>
-<br>
-  I løpet av tiden på kurset har jeg lært meg HTML, CSS og JavaScript. I I tillegg bruker jeg en del tid på TypeScript, noe som viste seg å være både artig og utfordrene. <br>
-<br>
-  Jeg har også brukt mye tid med React, og mer generelt hvordan JavaScript baserte bibliotek fungerer. <br>
-Det har ført til at jeg har begynt å bevege meg nedover i "stacken", og har på fritiden startet å utforske fullstack rammeverk som NEXT og ASTRO. <br>
-  Akkurat nå er jeg nok ganske generalist når det kommer til JavaScript-baserte techstacks, <br>
-men jeg merker at å jobbe med fullstack er noe jeg kommer til å trives med. <br>
-<br>
-Foreløbig er beste måten å nå meg på: <a href="https://discordapp.com/users/johnb08"> Gjennom Discord <a/>
 
 <!---
 JohnB08/JohnB08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
