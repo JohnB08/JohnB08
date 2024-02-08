@@ -1,8 +1,8 @@
 
 
-## -- English --
+<h2>-- English --</h2> 
 <br>
-### Hi! I'm John. <br>
+<h3>Hi! I'm John.</h3>  <br>
 Currently crossing the finish line at a coding bootcamp in Norway Called Kodehode.<br>
 <br>
 During this time I have developed a solid foundation for HTML, CSS and JavaScript. <br>
@@ -17,10 +17,10 @@ At this time I would call myself a Generalist within JavaScript, but I see worki
 Currently the best way to reach me is: <a href="https://discordapp.com/users/johnb08"> Through Discord <a/>
 <br>
 <br>
-## -- Norsk --
+<h2>-- Norsk --</h2> 
 <br>
 <br>
-### Hei! Jeg er John <br>
+<h3>Hei! Jeg er John</h3> <br>
 <br>
 Jeg er akkurat nå i innspurten i et introduksjonskurs til koding som heter Kodehode. <br>
 
