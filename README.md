@@ -4,7 +4,7 @@
 <h2>-- English --</h2> 
 <br>
 <h3>Hi! I'm John.</h3>  <br>
-  Currently crossing the finish line at a coding bootcamp in Norway Called Kodehode.<br>
+  Currently crossing the finish line at a coding bootcamp in Norway called Kodehode.<br>
 <br>
   During this time I have developed a solid foundation for HTML, CSS and JavaScript. <br>
 I'm currently building up my experience using TypeScript, which is turning out to be a fun challenge. <br>
