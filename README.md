@@ -30,9 +30,7 @@ I løpet av tiden på kurset har jeg lært meg HTML, CSS og JavaScript. I I till
 Jeg har også brukt mye tid med React, og mer generelt hvordan JavaScript baserte bibliotek fungerer. <br>
 Det har ført til at jeg har begynt å bevege meg nedover i "stacken", og har i fritiden startet å utforske fullstack rammeverk som NEXT og ASTRO. <br>
 Jeg har oppdaget at det å jobbe fullstack er noe jeg kommer til å trives med. <br>
-
-
-
+<br>
 Foreløbig er beste måten å nå meg på: <a href="https://discordapp.com/users/johnb08"> Gjennom Discord <a/>
 
 <!---
