@@ -23,7 +23,7 @@ Currently the best way to reach me is: <a href="https://discordapp.com/users/joh
 <br>
 <h3>Hei! Jeg er John</h3> <br>
 <br>
-Jeg er akkurat nå i innspurten i et introduksjonskurs til koding som heter Kodehode. <br>
+Jeg er akkurat nå i innspurten av et introduksjonskurs til koding som heter Kodehode. <br>
 <br>
 I løpet av tiden på kurset har jeg lært meg HTML, CSS og JavaScript. I I tillegg bruker jeg en del tid på TypeScript, noe som viste seg å være både artig og utfordrene. <br>
 <br>
