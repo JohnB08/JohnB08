@@ -5,7 +5,7 @@
 <br>
   Jeg er akkurat nå i innspurten av et introduksjonskurs til koding som heter Kodehode. <br>
 <br>
-  I løpet av tiden på kurset har jeg lært meg HTML, CSS og JavaScript. I I tillegg bruker jeg en del tid på TypeScript, noe som viste seg å være både artig og utfordrene. <br>
+  I løpet av tiden på kurset har jeg lært meg det grunnleggende for FrontEnd. I I tillegg bruker jeg en del tid på TypeScript, noe som viste seg å være både artig og utfordrene. <br>
 <br>
   Jeg har også brukt mye tid med React, og mer generelt hvordan JavaScript baserte bibliotek fungerer. <br>
 Det har ført til at jeg har begynt å bevege meg nedover i "stacken", og har på fritiden startet å utforske fullstack rammeverk som NEXT og ASTRO. <br>
@@ -18,7 +18,7 @@ Foreløbig er beste måten å nå meg på: <a href="https://discordapp.com/users
 <h3>Hi! I'm John.</h3>  <br>
   Currently crossing the finish line at a coding bootcamp in Norway called Kodehode.<br>
 <br>
-  During this time I have developed a solid foundation for HTML, CSS and JavaScript. <br>
+  During this time I have developed a solid foundation for front-end development. <br>
 I'm currently building up my experience using TypeScript, which is turning out to be a fun challenge. <br>
 <br>
   I have spent some time working with React, and have familiarized myself in how JavaScript libraries function. <br>
