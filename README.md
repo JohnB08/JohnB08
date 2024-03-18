@@ -12,7 +12,8 @@ Dermed har jeg også begynt å bevege meg nedover i “stacken”, og har på fr
 &nbsp;&nbsp;&nbsp;Akkurat nå er jeg nok ganske generalist når det kommer til JavaScript-baserte tech stacks, <br>
 men jeg merker at å jobbe med fullstack er noe jeg kommer til å trives med. <br>
 <br>
-&nbsp;&nbsp;&nbsp;Foreløbig er beste måten å nå meg på: <a href="https://discordapp.com/users/johnb08."> Gjennom Discord <a/>
+&nbsp;&nbsp;&nbsp;Foreløbig er beste måten å nå meg på: <a href="mailto: johnb08.kodehode@gmail.com"> Gjennom Email <a/> <br>
+Eller nå meg på discord via brukernavnet JohnB08
 <br>
 <br>
 <h3>Hi! I'm John.</h3>  <br>
@@ -28,7 +29,8 @@ such as NEXT.js and ASTRO. <br>
 &nbsp;&nbsp;&nbsp;At this time I would call myself a Generalist within JavaScript,<br>
 but I see working with a fullstack framework is something I will enjoy. <br>
 <br>
-Currently the best way to reach me is: <a href="https://discordapp.com/users/johnb08."> Through Discord <a/>
+Currently the best way to reach me is: <a href="mailto: johnb08.kodehode@gmail.com"> Through Email <a/> <br>
+Or contact me on discord with the username JohnB08.
 
 <!---
 JohnB08/JohnB08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
