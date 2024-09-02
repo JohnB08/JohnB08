@@ -1,7 +1,7 @@
 <img src="./AboutmeImage.svg" alt="About me!"/>
 <br>
 <br>
-<h3>Hei,/h3> <br>
+<h3>Hei,</h3> <br>
 <br>
 &nbsp;&nbsp;&nbsp;Jeg er John Kristian Ellingsen, <br>
 &nbsp;&nbsp;&nbsp;for tiden intern hos VIS innovasjon hvor jeg utvikler en applikasjon som integrerer API-er fra Proff og SSB med Excel, og bruker React-frontend. <br>
