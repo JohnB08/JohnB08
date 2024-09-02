@@ -1,33 +1,40 @@
 <img src="./AboutmeImage.svg" alt="About me!"/>
 <br>
 <br>
-<h3>Hei! Jeg er John</h3> <br>
+<h3>Hei,/h3> <br>
 <br>
-&nbsp;&nbsp;&nbsp;Jeg er akkurat nå i innspurten av et introduksjonskurs i koding som heter Kodehode. <br>
+&nbsp;&nbsp;&nbsp;Jeg er John Kristian Ellingsen, <br>
+&nbsp;&nbsp;&nbsp;for tiden intern hos VIS innovasjon hvor jeg utvikler en applikasjon som integrerer API-er fra Proff og SSB med Excel, og bruker React-frontend. <br>
 <br>
-&nbsp;&nbsp;&nbsp;I løpet av tiden  på kurset har jeg fått en solid grunnforståelse for front-end. I tillegg bruker jeg en del tid på TypeScript, noe jeg synes er både artig og utfordrende. <br>
+&nbsp;&nbsp;&nbsp;Min programmeringsreise startet med Kodehode-bootcampen, hvor jeg fikk solid grunnlag i JavaScript og React <br>
+Siden da har jeg utvidet min kompetanse med C#, SQL via PostgreSQL, og utforsker nå C og Rust på fritiden. <br>
+&nbsp;&nbsp;&nbsp;Som full-stack utvikler trives jeg med komplekse utfordringer. <br>
+Et av mine siste hobbyprosjekter involverte simulering av 6502-prosessoren i Rust, <br>
+noe som ga meg verdifull innsikt i lavnivå programmering. <br>
+Min bakgrunn fra speideren har gitt meg gode samarbeidsevner og problemløsningsferdigheter, <br>
+egenskaper jeg gjerne bruker innen utviklingsarbeid.<br>
 <br>
-&nbsp;&nbsp;&nbsp;Jeg har også brukt mye tid med React, og mer generelt hvordan JavaScript-baserte bibliotek fungerer. <br>
-Dermed har jeg også begynt å bevege meg nedover i “stacken”, og har på fritiden startet å utforske fullstack-rammeverk som NEXT og ASTRO. <br>
-&nbsp;&nbsp;&nbsp;Akkurat nå er jeg nok ganske generalist når det kommer til JavaScript-baserte tech stacks, <br>
-men jeg merker at å jobbe med fullstack er noe jeg kommer til å trives med. <br>
+&nbsp;&nbsp;&nbsp;Jeg er alltid på jakt etter muligheter til å lære og å bli en dyktigere utvikler.<br>
+Utfordringen med å løse komplekse problemer, <br>
+enten det er å kartlegge JSON-STAT-formatet eller kode nye funksjoner, driver meg fremover.<br>
 <br>
 &nbsp;&nbsp;&nbsp;Foreløbig er beste måten å nå meg på: <a href="mailto: johnb08.kodehode@gmail.com"> Gjennom Email <a/> <br>
 Eller nå meg på discord via brukernavnet JohnB08
 <br>
 <br>
-<h3>Hi! I'm John.</h3>  <br>
-&nbsp;&nbsp;&nbsp;Currently crossing the finish line at a coding bootcamp in Norway called Kodehode.<br>
+<h3>Hello, </h3>  <br>
+&nbsp;&nbsp;&nbsp;I'm John Kristian Ellingsen,<br>
+&nbsp;&nbsp;&nbsp;currently an intern at VIS Innovation where I'm developing an application that integrates APIs from Proff and SSB with Excel, using a React frontend. <br>
+My programming journey began with the Kodehode bootcamp, where I gained a solid foundation in JavaScript and React. <br>
+Since then, I've expanded my skills with C#, SQL via PostgreSQL, and I'm now exploring C and Rust in my free time. <br>
 <br>
-&nbsp;&nbsp;&nbsp;During this time I have developed a solid foundation for front-end development. <br>
-I'm currently building up my experience using TypeScript, which is turning out to be a fun challenge. <br>
+&nbsp;&nbsp;&nbsp;As a full-stack developer, I thrive on complex challenges. <br>
+One of my recent hobby projects involved simulating the 6502 processor in Rust, which gave me valuable insight into low-level programming. <br>
+My background in scouting has provided me with strong collaboration and problem-solving skills, qualities I readily apply in development work.<br>
 <br>
-&nbsp;&nbsp;&nbsp;I have spent some time working with React, and have familiarized myself in how JavaScript libraries function. <br>
-<br>
-&nbsp;&nbsp;&nbsp;Lately I have also started slowly making my way down the stack and are currently exploring the possibilities within frameworks <br>
-such as NEXT.js and ASTRO. <br>
-&nbsp;&nbsp;&nbsp;At this time I would call myself a Generalist within JavaScript,<br>
-but I see working with a fullstack framework is something I will enjoy. <br>
+&nbsp;&nbsp;&nbsp;I'm always looking for opportunities to learn and become a more skilled developer. <br>
+The challenge of solving complex problems, whether it's mapping the JSON-STAT format or coding new features, drives me forward.<br>
+
 <br>
 Currently the best way to reach me is: <a href="mailto: johnb08.kodehode@gmail.com"> Through Email <a/> <br>
 Or contact me on discord with the username JohnB08.
