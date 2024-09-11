@@ -42,7 +42,7 @@ Or contact me on discord with the username JohnB08.
 <br/>
 <br/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnB08&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnB08&hide=css,scss,html&theme=tokyonight&layout=compact)
 <!---
 JohnB08/JohnB08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
