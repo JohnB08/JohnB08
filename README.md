@@ -39,7 +39,10 @@ The challenge of solving complex problems, whether it's mapping the JSON-STAT fo
 <br>
 Currently the best way to reach me is: <a href="mailto: johnb08.kodehode@gmail.com"> Through Email <a/> <br>
 Or contact me on discord with the username JohnB08.
+<br/>
+<br/>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnB08&hide=javascript,css,scss,html&theme=tokyonight)
 <!---
 JohnB08/JohnB08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
